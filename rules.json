@@ -1,0 +1,6 @@
+[
+  {"type": "growth", "operator": ">", "value": 10, "decision": "Invest"},
+  {"type": "growth", "operator": "<=", "value": 10, "decision": "Hold"},
+  {"type": "cost", "operator": ">", "value": "revenue", "decision": "Reject"}
+]
+
